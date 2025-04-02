@@ -1,6 +1,7 @@
- _Previews/
-History/
-* Logs*
-Project Outputs*
+_Previews/*
+History/*
+*.log
+*.tmp
 *.DSN1ck
+
 Altium_github_token.txt

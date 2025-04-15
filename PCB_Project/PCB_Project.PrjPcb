@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ORGHYJQT
 
 [Document8]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=LMK1D2102RGTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XALLLMAN
+DocumentUniqueId=IHSDFXKN
 
 [Parameter1]
 Name=Author

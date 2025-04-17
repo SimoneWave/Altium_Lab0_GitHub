@@ -1,5 +1,7 @@
-_Previews/
-History/
+**/_Previews/
+**/__Previews/
+**/History/
+*.PrjPcbStructure
 *.log
 *.tmp
 *.DSN1ck
